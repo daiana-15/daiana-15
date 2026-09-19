@@ -1,13 +1,14 @@
 # Bienvenidos a mi página 
+
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img alt="LinkedIn" src="https://wikimedia.org" width="40" style="background-color: white; padding: 8px; border-radius: 8px; margin: 0 10px; vertical-align: middle;"> 
+    <img alt="LinkedIn" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" width="35" height="35" style="background-color: white; padding: 8px; border-radius: 8px; margin: 0 10px; vertical-align: middle; object-fit: contain;"> 
   </a>
-  <a href="https://github.com">
-    <img alt="GitHub" src="https://wikimedia.org" width="40" style="background-color: white; padding: 8px; border-radius: 8px; margin: 0 10px; vertical-align: middle;">
+  <a href="https://github.com/daiana-15">
+    <img alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="35" height="35" style="background-color: white; padding: 8px; border-radius: 8px; margin: 0 10px; vertical-align: middle; object-fit: contain;">
   </a>
   <a href="mailto:daianafarias2076@gmail.com">
-    <img alt="Gmail" src="https://wikimedia.org" width="40" style="background-color: white; padding: 8px; border-radius: 8px; margin: 0 10px; vertical-align: middle;">
+    <img alt="Gmail" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/960px-Gmail_icon_%282026%29.svg.png" width="35" height="35" style="background-color: white; padding: 8px; border-radius: 8px; margin: 0 10px; vertical-align: middle; object-fit: contain;">
   </a>
 </p>
 
