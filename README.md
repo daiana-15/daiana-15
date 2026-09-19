@@ -1,4 +1,7 @@
 # Bienvenidos a mi página 
+## ¿Quién soy?
+Soy Daiana, técnica en informatica y diseñadora web 🎓 <br>
+Estudiante de la carrera ingeniería en sistemas en la UTN 👩‍💻
 
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
@@ -12,8 +15,5 @@
   </a>
 </p>
 
-## ¿Quién soy?
-Soy Daiana, técnica en informatica y diseñadora web 🎓 <br>
-Estudiante de la carrera ingeniería en sistemas en la UTN 👩‍💻
 
 ## Gracias por visitar mi sitio!
